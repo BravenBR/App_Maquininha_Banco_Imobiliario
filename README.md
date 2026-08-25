@@ -50,3 +50,8 @@ Não execute apenas `flutter build apk`: a página web precisa ser compilada e i
 O aplicativo Android abre um servidor HTTP/WebSocket na porta `8080`. O QR Code aponta para `http://IP-DO-ANFITRIAO:8080/?room=CODIGO`. O navegador baixa a interface web do próprio celular anfitrião e mantém os saldos sincronizados por WebSocket. As regras e o estado oficial da partida permanecem no aplicativo Android.
 
 Os detalhes da revisão técnica estão em [AUDITORIA_WEB.md](AUDITORIA_WEB.md).
+
+<img width="720" height="1600" alt="maquinha_banco" src="https://github.com/user-attachments/assets/a2bb4e7a-3fcb-4fe3-bdb9-05bc68cc6200" />
+<img width="720" height="1600" alt="maquinha_banco_inside" src="https://github.com/user-attachments/assets/73e66e1c-63e6-4f0e-ad8a-a3ee28665658" />
+
+
