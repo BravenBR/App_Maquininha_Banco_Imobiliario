@@ -53,5 +53,9 @@ Os detalhes da revisão técnica estão em [AUDITORIA_WEB.md](AUDITORIA_WEB.md).
 
 <img width="720" height="1600" alt="maquinha_banco" src="https://github.com/user-attachments/assets/a2bb4e7a-3fcb-4fe3-bdb9-05bc68cc6200" />
 <img width="720" height="1600" alt="maquinha_banco_inside" src="https://github.com/user-attachments/assets/73e66e1c-63e6-4f0e-ad8a-a3ee28665658" />
+<img width="720" height="1600" alt="maquininha_banco_menu_lateral" src="https://github.com/user-attachments/assets/2274022f-d57f-4347-91b8-d63f41b15180" />
+<img width="739" height="1600" alt="maquinha_banco_participante" src="https://github.com/user-attachments/assets/514e7689-e819-4664-8bc3-27baeb5430b7" />
+
+
 
 
